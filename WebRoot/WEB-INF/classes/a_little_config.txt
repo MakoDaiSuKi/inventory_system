@@ -1,0 +1,5 @@
+jdbcUrl = jdbc:sqlserver://127.0.0.1:1433; DatabaseName=inventoryDB
+driver = com.microsoft.sqlserver.jdbc.SQLServerDriver
+user = root
+password = root
+devMode = true
